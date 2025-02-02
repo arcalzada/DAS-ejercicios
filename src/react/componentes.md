@@ -3,7 +3,7 @@
 
 Son pequeñas piezas interactivas que conforman la interfaz de usuario. Se implementan como **funciones** que devuelven código **JSX** representando su aspecto visual. Dentro del código JSX se puede incluir JS entre llaves (`{...}`).
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="Componentes" src="https://codepen.io/-lvaro-Ruiz-Calzada/embed/zxOXLEy?default-tab=js%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+<iframe height="300" style="width: 100%;" scrolling="no" title="Componentes" src="https://codepen.io/-lvaro-Ruiz-Calzada/embed/zxOXLEy?default-tab=js%2Cresult&editable=true&theme-id=light" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/-lvaro-Ruiz-Calzada/pen/zxOXLEy">
   Componentes</a> by Álvaro Ruiz Calzada (<a href="https://codepen.io/-lvaro-Ruiz-Calzada">@-lvaro-Ruiz-Calzada</a>)
   on <a href="https://codepen.io">CodePen</a>.
