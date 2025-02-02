@@ -9,8 +9,8 @@ authors = ["Alberto Peraleda, Álvaro Ruiz"]
 additional-js = ["theme/theme.js"]
 additional-css = ["theme/theme.css"]
 no-section-label = true
-git-repository-url = "https://github.com/das/ejercicios"
-edit-url-template = "https://github.com/das/ejercicios/edit/main/{path}"
+git-repository-url = "https://github.com/arcalzada/DAS-ejercicios"
+edit-url-template = "https://github.com/arcalzada/DAS-ejercicios/edit/main/{path}"
 
 [output.html.print]
 enable = false
