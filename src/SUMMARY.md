@@ -12,5 +12,4 @@
 - [Componentes](react/componentes.md)
   - [Reutilización](react/componentes-reutilizacion.md)
   - [Anidamiento](react/componentes-anidamiento.md)
-  - [Ficheros](react/componentes-ficheros.md)
   - [Listas](react/componentes-listas.md)

@@ -4,28 +4,11 @@
 
 Los componentes React funcionan como etiquetas HTML (`<img>`, `<button>`, etc.) que pueden ser reutilizadas a lo largo de una página web y recibir atributos para hacerlos configurables. 
 
-<div class="sandpack" data-width="70" data-height="400px"><pre data-file="App.js">
-// Se declaran con la 1ra letra en mayúscula,
-// junto con las propiedades que pueden recibir
-function Figura({src, caption}) {
-  return (
-    &lt;figure>
-      &lt;img src={src}/>
-      &lt;figcaption>{caption}&lt;/figcaption>
-    &lt;/figure>
-  );
-}
-export default function App() { 
-  return (
-    &lt;section>
-      {/* Se utiliza como una etiqueta HTML */}
-      &lt;Figura src="https://picsum.photos/50" caption="Fig.1"/>
-      &lt;Figura src="https://picsum.photos/75" caption="Fig.2"/>
-      &lt;Figura/>
-    &lt;/section>
-  );
-}
-</pre></div>
+<iframe height="300" style="width: 100%;" scrolling="no" title="Reutilización componentes" src="https://codepen.io/-lvaro-Ruiz-Calzada/embed/zxOXXxg?default-tab=js%2Cresult&editable=true&theme-id=light" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/-lvaro-Ruiz-Calzada/pen/zxOXXxg">
+  Reutilización componentes</a> by Álvaro Ruiz Calzada (<a href="https://codepen.io/-lvaro-Ruiz-Calzada">@-lvaro-Ruiz-Calzada</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 Los atributos de los componentes en React se llaman "props". Opcionalmente, pueden tener valores por defecto: `function NombreComponente({prop1 = valor, prop2, ...})`.
 
